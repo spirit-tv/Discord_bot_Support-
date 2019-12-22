@@ -16,7 +16,7 @@ echo Starting Bot
 node index.js
 pause
 ``
--Pour les machine Linux
+- Pour les machine Linux
 ``
 node index.js
 ``
